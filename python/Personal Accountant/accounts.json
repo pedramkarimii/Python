@@ -1,0 +1,13 @@
+[
+  {
+    "bank_name": "meli",
+    "account_number": "1986",
+    "card_number": "1234",
+    "balance": 1000.0,
+    "transactions": [],
+    "frequent_activities": {
+      "income": [],
+      "expense": []
+    }
+  }
+]
